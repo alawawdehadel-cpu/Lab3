@@ -12,10 +12,10 @@ function Home() {
           className="home-image"
         />
 
-        <h1>Welcome to Book Explorer!</h1>
+        <h1>Welcome to Books Explorer!</h1>
 
         <p>
-          Browse books and view their details using Open Library API.
+          Browse books and view their details using Open Library API!!!.
         </p>
 
       </div>
